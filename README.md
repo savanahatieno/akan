@@ -10,7 +10,7 @@ This project is an application that take's a user's birthday and caculates the d
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/savanahatieno/akan/blob/master/images/screenshot.png" width="800px" height="400px">
+<img src="https://raw.githubusercontent.com/savanahatieno/akan/master/images/screenshot.png" width="800px" height="400px">
 
 ## Live Page
 https://savanahatieno.github.io/akan/
